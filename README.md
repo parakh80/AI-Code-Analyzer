@@ -2,7 +2,7 @@
 
 ## Project Description
 
-AI Code Analyzer is a web application built to analyze code snippets currently supporting Python and JavaScript using the power of Google’s Gemini AI models. It offers insights into code correctness, uncovers potential edge cases, performs deep semantic analysis, and auto-generates relevant test cases. With a clean and user-friendly interface, users can easily submit their code and track progress while reviewing detailed analysis results.
+AI Code Analyzer is a web application built to analyze code snippets currently supporting Python and Next js using the power of Google’s Gemini AI models. It offers insights into code correctness, uncovers potential edge cases, performs deep semantic analysis, and auto-generates relevant test cases. With a clean and user-friendly interface, users can easily submit their code and track progress while reviewing detailed analysis results.
 
 While this tool doesn't replace prompt engineers, it significantly boosts their productivity. It helps them better understand AI-generated code, spot edge-case errors that might be missed during manual analysis, and leverage test cases to validate the logic. It’s all about making prompt engineering smarter, faster, and more reliable.
 
